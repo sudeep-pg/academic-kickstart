@@ -67,4 +67,6 @@ user_groups:
 - Visitors
 ---
 
-
+I'm a Software Engineer at Qualcomm Inc. My main interests are in Mobile SW systems and generic software engineering. 
+I'm currently a part of protocol software organization, working on 5G cellular protocols. 
+I'm happy to have had the opportunity to work on some of the cutting edge technologies that directly impacts the lives of millions of people. Smartphones are getting ubiquitous and I'm excited to be a part of this technological revolution. 
