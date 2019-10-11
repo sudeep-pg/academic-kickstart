@@ -67,6 +67,9 @@ user_groups:
 - Visitors
 ---
 
-I'm a Software Engineer at Qualcomm Inc. My main interests are in Mobile SW systems and generic software engineering. 
-I'm currently a part of protocol software organization, working on 5G cellular protocols. 
-I'm happy to have had the opportunity to work on some of the cutting edge technologies that directly impacts the lives of millions of people. Smartphones are getting ubiquitous and I'm excited to be a part of this technological revolution. 
+I'm a Senior Engineer at Qualcomm CDMA Technologies. I'm currently a part of Network Protocol software organization, working on network system selection and developing alrogithms that assist in managing voice/data/emergency calls over cellular network. 
+
+My main interests are in application of SW enginering for mobile computing, finance and IoT. 
+I'm also interested in the things that are at the interesection of business , technology and engineering - Product Management. 
+
+I completed my Masters in Electrical Engineering from UT Arlington where I worked with Dr.K.R.Rao in optimizing H.264 for graphics processors. 
