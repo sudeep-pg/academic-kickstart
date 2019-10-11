@@ -25,7 +25,7 @@ I'm currently a part of protocol software organization, working on 5G cellular p
 interests:
 - Software Engineering
 - Product Management
-- FinTech
+- FinTech and Business
 
 education:
   courses:
