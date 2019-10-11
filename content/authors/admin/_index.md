@@ -4,7 +4,7 @@ name: Sudeep Gangavati
 
 # Username (this should match the folder name)
 authors: 
-- sudeep-pg
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,8 +14,8 @@ role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Quality
-  url: ""
+- name: Qualcomm Inc
+  url: "www.qualcomm.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
