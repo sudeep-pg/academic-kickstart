@@ -3,7 +3,7 @@
 name: Sudeep Gangavati
 
 # Username (this should match the folder name)
-authors: Ssudeepg
+authors: 
 - admin
 
 # Is this the primary user of the site?
