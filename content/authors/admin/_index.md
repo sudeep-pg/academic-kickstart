@@ -14,7 +14,7 @@ role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Qualcomm Inc. This is not working out
+- name: Quality
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
