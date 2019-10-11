@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lar",
+				"largestTimeFromDigits"
+			],
+			[
+				"num",
+				"numsSize"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sudeep/Documents/GitHub/academic-kickstart"
+	],
+	"file_history":
+	[
+		"/Users/sudeep/Library/Application Support/Sublime Text 3/Packages/FileBrowser/dired.sublime-settings",
+		"/Users/sudeep/Documents/GitHub/academic-kickstart/themes/academic/exampleSite/config/_default/config.toml",
+		"/Users/sudeep/sudeep-pg/content/authors/admin/_index.md",
+		"/Users/sudeep/Documents/LC/338_Counting_Bits.cpp",
+		"/Users/sudeep/Documents/LC/949_Largest_Time.cpp",
+		"/Users/sudeep/Documents/LC/hellow.cpp",
+		"/Users/sudeep/Library/Application Support/Sublime Text 3/Packages/User/dired.sublime-settings",
+		"/Users/sudeep/Library/LaunchAgents/bing.wallpaper.mac.plist",
+		"/Users/sudeep/Downloads/BingWallpaper-master/bing.wallpaper.mac.plist",
+		"/Users/sudeep/Documents/LC/lc_third_max_num.c",
+		"/Users/sudeep/Documents/LC/lc_find_the_difference.c",
+		"/Users/sudeep/Desktop/Questions/java.txt",
+		"/Users/sudeep/Desktop/Questions/Qualcomm_1.txt",
+		"/Users/sudeep/Documents/LC/helloworld.c",
+		"/Users/sudeep/Desktop/imp_proj_links",
+		"/Users/sudeep/Desktop/movies_success_aws.py",
+		"/Users/sudeep/Desktop/Oracle_credentials",
+		"/Users/sudeep/Desktop/election_hardcode.py",
+		"/Users/sudeep/Desktop/election_data_processor.py",
+		"/Users/sudeep/Desktop/spark_after_home_brew_tap",
+		"/Users/sudeep/Desktop/java_set_up",
+		"/Users/sudeep/Downloads/p5130_lec07_two_iv_regression.docx",
+		"/Users/sudeep/Desktop/Commands_used_for_installation",
+		"/Users/sudeep/Desktop/aws_account_details",
+		"/Users/sudeep/Downloads/map_test.txt",
+		"/Users/sudeep/Desktop/pl_compre_links",
+		"/Users/sudeep/Documents/assign_2_VC_bkp",
+		"/Users/sudeep/Documents/assign_2_bkp",
+		"/Users/sudeep/Documents/simple_queue_bkp",
+		"/Users/sudeep/Documents/after_guard_assign1",
+		"/Users/sudeep/Documents/assignment1_before_guard",
+		"/Users/sudeep/Documents/assignment_1_1",
+		"/Users/sudeep/Desktop/ios_usefull_links",
+		"/Users/sudeep/Documents/test.playground"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "github_academic.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"func saveFieldValuesToFile() {"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
