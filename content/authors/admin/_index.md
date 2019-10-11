@@ -15,7 +15,7 @@ role: Senior Engineer
 # Organizations/Affiliations
 organizations:
 - name: Qualcomm Inc
-  url: "www.qualcomm.com"
+  url: "https://qualcomm.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -73,4 +73,4 @@ I'm a Senior Engineer at Qualcomm CDMA Technologies. I'm currently a part of Net
 My main interests are in application of SW enginering for mobile computing, finance and IoT. 
 I'm also interested in the things that are at the interesection of business , technology and engineering - Product Management. 
 
-I completed my Masters in Electrical Engineering from UT Arlington where I worked with Dr.K.R.Rao (link:uta.edu) in optimizing H.264 video codec for graphics processors. 
+I completed my Masters in Electrical Engineering from UT Arlington where I worked with Dr.K.R.Rao (url: "https://qualcomm.com") in optimizing H.264 video codec for graphics processors. 
