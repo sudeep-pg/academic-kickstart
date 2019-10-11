@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Engineer
+role: Senior Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -22,6 +22,7 @@ bio:
 
 interests:
 - Software Engineering
+- Mobile Computing 
 - Product Management
 - FinTech and Business
 
@@ -72,4 +73,4 @@ I'm a Senior Engineer at Qualcomm CDMA Technologies. I'm currently a part of Net
 My main interests are in application of SW enginering for mobile computing, finance and IoT. 
 I'm also interested in the things that are at the interesection of business , technology and engineering - Product Management. 
 
-I completed my Masters in Electrical Engineering from UT Arlington where I worked with Dr.K.R.Rao in optimizing H.264 video codec for graphics processors. 
+I completed my Masters in Electrical Engineering from UT Arlington where I worked with Dr.K.R.Rao (link:uta.edu) in optimizing H.264 video codec for graphics processors. 
