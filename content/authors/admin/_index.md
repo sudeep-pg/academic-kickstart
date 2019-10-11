@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My areas of interests include Software Engineering and Mobile Computing.
+bio: 
+My areas of interests include Software Engineering and Mobile Computing.
 I'm a Software Engineer at Qualcomm Inc. My main interests are in Mobile SW systems and generic software engineering. 
 I'm currently a part of protocol software organization, working on 5G cellular protocols. 
 
