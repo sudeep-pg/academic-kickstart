@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = "www.broadcom.com"
   location = "Allentown Pennsylvania"
   date_start = "2012-05-01"
-  date_end   = " 2012-09-01"
+  date_end   = "2012-09-01"
   description = """ Working on making video codecs more efficient on LSI platforms"""
 
 [[experience]]
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "www.ee.uta.edu/mpl"
   location = "Arlington Texas"
   date_start = "2011-07-01"
-  date_end   = " 2012-12-32"
+  date_end   = "2012-12-31"
   description = """ Working on making video codecs more efficient on parallel processors"""
 
 +++
