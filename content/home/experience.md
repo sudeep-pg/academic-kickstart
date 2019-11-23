@@ -19,26 +19,29 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
   title = "Senior Engineer"
   company = "Qualcomm Inc"
   company_url = "www.qualcomm.com"
   location = "California"
   date_start = "2016-09-01"
-  description = """ Working on Network Selection and Call Handling"""
+  description = """ Helping upgrade your smartphone to 5G """
+
+[[experience]]
+  title = "Video Engineer"
+  company = "LSI Corp (Acquired by Broadcom) "
+  company_url = "broadcom.com"
+  location = "Allentown Pennsylvania"
+  date_start = "2012-05-01"
+  date_end   = " 2012-09-01"
+  description = """ Working on making video codecs more efficient on LSI platforms"""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Multimedia Processing Lab, UT Arlington"
+  company_url = "ee.uta.edu/mpl"
+  location = "Arlington Texas"
+  date_start = "2011-07-01"
+  date_end   = " 2012-12-32"
+  description = """ Working on making video codecs more efficient on parallel processors"""
 
 +++
