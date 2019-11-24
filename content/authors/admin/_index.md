@@ -71,6 +71,6 @@ user_groups:
 I'm a Senior Engineer at Qualcomm CDMA Technologies. I'm currently a part of Network Protocol software organization, working on network system selection and developing alrogithms that assist in managing voice/data/emergency calls over cellular network. 
 
 My main interests are in application of SW enginering for mobile computing, finance and IoT. 
-I'm also interested in the things that are at the interesection of business , technology and engineering - Product Management. 
+I'm also interested in the things that are at the intersection of business , technology and engineering - Product Management. 
 
-I completed my Masters in Electrical Engineering from UT Arlington where I worked with Dr.K.R.Rao (url: "https://qualcomm.com") in optimizing H.264 video codec for graphics processors. 
+I completed my Masters in Electrical Engineering from UT Arlington where I worked with Dr.K.R.Rao (url: "ee.uta.edu") in optimizing H.264 video codec for graphics processors. 
